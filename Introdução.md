@@ -53,6 +53,6 @@ NumDep| NomeDept
 
 ---
 ### Tipos de dados
-- char x varchar; <br> **Ex1. String "Lulu" com vet[5]:** <br> No char: vet[5] -> [L] - [u] - [l] - [u] - [0/1] (preenche com valor binário se sobrar espaço); <br> No varchar: vet[5] -> [L] - [u] - [l] - [u] - [X](elimina o último caracter). ```É recomendado utilizar o varchar. ``` <br>**Ex2. "João", quantos caracteres?** Cinco, contando o ~.
+- char x varchar; <br> **Ex1. String "Lulu" com vet[5]:** <br> No char: vet[5] -> [L] - [u] - [l] - [u] - [0/1] (preenche com valor binário se sobrar espaço); <br> No varchar: vet[5] -> [L] - [u] - [l] - [u] - [X](elimina o último caracter).  ```É recomendado utilizar o varchar. ``` <br>**Ex2. "João", quantos caracteres?** Cinco, contando o ~.
 
 - Alguns tipos mais utilizados: Datetime, date, time.
