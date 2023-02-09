@@ -95,5 +95,3 @@ into table importvendas fields terminated by ';' lines terminated by '\n'
 ignore 1 rows;
 
 select * from importVendas;
-
-
